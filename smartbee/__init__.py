@@ -1,0 +1,2 @@
+include smartbee
+name = "smartbee"
