@@ -13,7 +13,7 @@ setup(
         'numpy==1.15.2',
         'pandas==0.23.4',
         'matplotlib==3.0.0',
-        'requests==2.19.1'
+        'requests==2.20.0'
     ],
   classifiers = [
         'Intended Audience :: Developers',
